@@ -11,3 +11,13 @@ ssh:    git@github.com:G1A1B1E/codeshiT.git
   ```
 #### My Website [Gabes Website](https://g1a1b1e.github.io)
 
+## Contributers
+
+-ME
+-MYSLEF
+-AND I
+
+Peace :)
+
+👺u better star or else ❔
+
