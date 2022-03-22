@@ -2,8 +2,10 @@
 ## just some code snippets and sh!t
 ### free and for evreyone to use
 
-You can clone my repo
+You can clone my repo and like ssh and stuff also https
 
-```
-gh repo clone G1A1B1E/codeshiT
-```
+  ```
+clone  gh repo clone G1A1B1E/codeshiT
+https  https://github.com/G1A1B1E/codeshiT.git
+ssh    
+  ```
