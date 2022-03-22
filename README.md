@@ -5,7 +5,9 @@
 You can clone my repo and like ssh and stuff also https
 
   ```
-clone  gh repo clone G1A1B1E/codeshiT
-https  https://github.com/G1A1B1E/codeshiT.git
-ssh    
+clone:  gh repo clone G1A1B1E/codeshiT
+https:  https://github.com/G1A1B1E/codeshiT.git
+ssh:    git@github.com:G1A1B1E/codeshiT.git
   ```
+#### My Website [Gabes Website](https://g1a1b1e.github.io)
+
