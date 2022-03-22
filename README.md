@@ -5,5 +5,5 @@
 You can clone my repo
 
 ```
-git 
+gh repo clone G1A1B1E/codeshiT
 ```
