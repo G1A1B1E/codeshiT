@@ -13,10 +13,8 @@ ssh:    git@github.com:G1A1B1E/codeshiT.git
 
 ## Contributers
 
--ME
--MYSLEF
--AND I
 
+i did not make all this code but i put it together so thanks to 30 seconds of code.
 Peace :)
 
 👺u better star or else ❔
